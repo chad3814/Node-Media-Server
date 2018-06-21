@@ -1,6 +1,6 @@
 {
   "name": "node-media-server",
-  "version": "1.3.7-ascope",
+  "version": "1.3.7-2ascope",
   "description": "A Node.js implementation of RTMP Server",
   "main": "index.js",
   "scripts": {
